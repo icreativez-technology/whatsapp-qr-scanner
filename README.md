@@ -66,7 +66,5 @@ Private Channels (optional)
 Copy credentials to both:
 chmod -R 775 storage/
 chmod -R 775 public/qrcodes/
-Laravel .env
 
-qr-code-service/config.json
 
